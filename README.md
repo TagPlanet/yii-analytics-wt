@@ -1,4 +1,4 @@
 yii-analytics-wt
 ================
 
-A WebTrends component for the Yii framework
+WebTrends analytics component for Yii. See our [Wiki](https://github.com/TagPlanet/yii-analytics-wt/wiki) for more information.
