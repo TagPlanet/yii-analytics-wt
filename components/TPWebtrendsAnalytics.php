@@ -114,7 +114,7 @@ EOJS;
         // TagPla.net copyright... please leave in here!
         $js.= '// WebTrends Extension provided by TagPla.net' . PHP_EOL;
         $js.= '// https://github.com/TagPlanet/yii-analytics-wt' . PHP_EOL;
-        $js.= '// Copyright 2012, TagPla.net & Philip Lawrence' . PHP_EOL;
+        $js.= '// Copyright 2013, TagPla.net & Philip Lawrence' . PHP_EOL;
         
         
         // Should we auto add in the analytics tag?
